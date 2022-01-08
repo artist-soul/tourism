@@ -27,6 +27,19 @@
      margin-top:1%;
      margin-left: 1%;
  }
+ .bg-img {
+    /* The image used */
+    background-image: url("images/theyyam.jpg");
+  
+    min-height: 1500px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
  .p-box{
      border: 3px solid white;
      width: 30%;
